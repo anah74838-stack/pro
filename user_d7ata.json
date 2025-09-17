@@ -1,0 +1,37 @@
+{
+    "7892988195": {
+        "templates": {},
+        "known_chats": {},
+        "broadcasting": {
+            "active": false,
+            "step": "template_pattern",
+            "templates": [
+                {
+                    "text": "ruuss 5$ (روس)  \naiiss 5$ (آيس)  \nJJDDI 4$ (جدل)  \nnuukk 4$ (نوك)  \nettaa 4$ (إيتا)  \nznnww 4$ (زنو)  \nrroov 4$  \nmmffy 3$  \nPPrr0 3$  \ncbbzz 2$  \nllbee 2$  \n\nطقم 5$ : qppaa – iaaqq"
+                }
+            ],
+            "interval": 120,
+            "groups": [
+                "channel:1599134989"
+            ],
+            "last_msg_id": []
+        },
+        "broadcast_status": {
+            "is_broadcasting": true,
+            "broadcast_type": "groups",
+            "sleep_time": 120,
+            "template_pattern": "1",
+            "groups": [
+                "channel:1599134989"
+            ],
+            "templates": [
+                {
+                    "text": "ruuss 5$ (روس)  \naiiss 5$ (آيس)  \nJJDDI 4$ (جدل)  \nnuukk 4$ (نوك)  \nettaa 4$ (إيتا)  \nznnww 4$ (زنو)  \nrroov 4$  \nmmffy 3$  \nPPrr0 3$  \ncbbzz 2$  \nllbee 2$  \n\nطقم 5$ : qppaa – iaaqq"
+                }
+            ],
+            "group_rotation": {
+                "1599134989": 78
+            }
+        }
+    }
+}
