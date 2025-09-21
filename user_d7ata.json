@@ -42,30 +42,30 @@
             "step": "template_pattern",
             "templates": [
                 {
-                    "text": "(يوزرات تليجرام العمله لتك )\nhhymm – $3 هيم\nffizz – $3 فيز\nnuukk – $3 نوك\nznnww – $3 زنو\npprr0 – $3\nvvraa – $2.5\nqrrcc – $2.5\nnhhoo – $2\njddff – $2\nxxj0x – $2\nuubbq – $2\nhhggi – $2\nxnnyy – $2\nffccp – $2\nyykkf – $1.5"
+                    "text": "مطلوب يوزر تيك مقابل لتك"
                 }
             ],
-            "interval": 110,
+            "interval": 50,
             "groups": [
                 "channel:1599134989"
             ],
             "last_msg_id": []
         },
         "broadcast_status": {
-            "is_broadcasting": true,
+            "is_broadcasting": false,
             "broadcast_type": "groups",
-            "sleep_time": 110,
+            "sleep_time": 50,
             "template_pattern": "1",
             "groups": [
                 "channel:1599134989"
             ],
             "templates": [
                 {
-                    "text": "(يوزرات تليجرام العمله لتك )\nhhymm – $3 هيم\nffizz – $3 فيز\nnuukk – $3 نوك\nznnww – $3 زنو\npprr0 – $3\nvvraa – $2.5\nqrrcc – $2.5\nnhhoo – $2\njddff – $2\nxxj0x – $2\nuubbq – $2\nhhggi – $2\nxnnyy – $2\nffccp – $2\nyykkf – $1.5"
+                    "text": "مطلوب يوزر تيك مقابل لتك"
                 }
             ],
             "group_rotation": {
-                "1599134989": 178
+                "1599134989": 88
             }
         }
     }
