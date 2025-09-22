@@ -42,7 +42,7 @@
             "step": "template_pattern",
             "templates": [
                 {
-                    "text": "مطلوب يوزر تيك مقابل لتك"
+                    "text": "مطلوب اداه نقل يوزرات تيك توك"
                 }
             ],
             "interval": 50,
@@ -52,7 +52,7 @@
             "last_msg_id": []
         },
         "broadcast_status": {
-            "is_broadcasting": false,
+            "is_broadcasting": true,
             "broadcast_type": "groups",
             "sleep_time": 50,
             "template_pattern": "1",
@@ -61,11 +61,11 @@
             ],
             "templates": [
                 {
-                    "text": "مطلوب يوزر تيك مقابل لتك"
+                    "text": "مطلوب اداه نقل يوزرات تيك توك"
                 }
             ],
             "group_rotation": {
-                "1599134989": 88
+                "1599134989": 239
             }
         }
     }
