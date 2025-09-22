@@ -42,10 +42,13 @@
             "step": "template_pattern",
             "templates": [
                 {
-                    "text": "مطلوب اداه نقل يوزرات تيك توك"
+                    "text": "أداة صيد يوزرات تلي قوية جداً!\n✅ تشتغل على الآيفون والأندرويد\n🔍 تصيد خماسي وأكثر من 60 نوع يمديك تحط نوع الي تبي\n📥 تلقائياً تحفظ اليوزر وتسوي له قناة خاصه\nضمان اذا ماصدت ولا يوزر ترجع لك نص فلوسك\n\n🕵️ صدت \nrriix – rrkkkrr –w2ggg-l2226-w4ooo\nاقبل لتك فقط\nيوم - 2 لتك\nاسبوع ب 6 لتك"
+                },
+                {
+                    "text": "(يوزرات تليجرام العمله لتك )\nhhymm – $3 هيم\nffizz – $3 فيز\nnuukk – $3 نوك\nznnww – $3 زنو\npprr0 – $2.5\nvvraa – $2\nqrrcc – $2\nnhhoo – $1\njddff – $1\nxxj0x – $2\nuubbq – $1\nhhggi – $1\nxnnyy – $2\nffccp – $2\nyykkf – $1"
                 }
             ],
-            "interval": 50,
+            "interval": 70,
             "groups": [
                 "channel:1599134989"
             ],
@@ -54,18 +57,21 @@
         "broadcast_status": {
             "is_broadcasting": true,
             "broadcast_type": "groups",
-            "sleep_time": 50,
-            "template_pattern": "1",
+            "sleep_time": 70,
+            "template_pattern": "كل",
             "groups": [
                 "channel:1599134989"
             ],
             "templates": [
                 {
-                    "text": "مطلوب اداه نقل يوزرات تيك توك"
+                    "text": "أداة صيد يوزرات تلي قوية جداً!\n✅ تشتغل على الآيفون والأندرويد\n🔍 تصيد خماسي وأكثر من 60 نوع يمديك تحط نوع الي تبي\n📥 تلقائياً تحفظ اليوزر وتسوي له قناة خاصه\nضمان اذا ماصدت ولا يوزر ترجع لك نص فلوسك\n\n🕵️ صدت \nrriix – rrkkkrr –w2ggg-l2226-w4ooo\nاقبل لتك فقط\nيوم - 2 لتك\nاسبوع ب 6 لتك"
+                },
+                {
+                    "text": "(يوزرات تليجرام العمله لتك )\nhhymm – $3 هيم\nffizz – $3 فيز\nnuukk – $3 نوك\nznnww – $3 زنو\npprr0 – $2.5\nvvraa – $2\nqrrcc – $2\nnhhoo – $1\njddff – $1\nxxj0x – $2\nuubbq – $1\nhhggi – $1\nxnnyy – $2\nffccp – $2\nyykkf – $1"
                 }
             ],
             "group_rotation": {
-                "1599134989": 239
+                "1599134989": 87
             }
         }
     }
